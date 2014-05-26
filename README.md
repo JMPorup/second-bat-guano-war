@@ -1,7 +1,25 @@
 second-bat-guano-war
 ====================
 
-The Second Bat Guano War
+Welcome to my series of GitHub novels.
+
+As a ex-hacker turned novelist, I license all my work Creative Commons. So why not release my work on GitHub?
+
+If you like the book, hit me up with some Bitcoin: FIXME
+
+And if you're broke? Tell a friend. Or even better, leave a review. :)
+
+See HOWTO for conversion instructions.
+
+
+book details
+============
+
+Title: The Second Bat Guano War
+Genre: Hard-Boiled Noir
+Word Count: 100,000
+
+Book Description:
 
 Rats ate his baby daughter while he partied in a disco. Now Horace “Horse” Mann is a drugged-out expat teaching English to criminals in Lima, Peru. Oh, and doing the odd favor for the CIA.
 
