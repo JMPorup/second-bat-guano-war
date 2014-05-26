@@ -17,7 +17,7 @@ See HOWTO for conversion instructions.
 book details
 ============
 
-Title: The Second Bat Guano War
+Title: *The Second Bat Guano War*
 
 Genre: Hard-Boiled Noir
 
