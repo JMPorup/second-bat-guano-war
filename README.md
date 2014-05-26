@@ -1,3 +1,5 @@
+![The Second Bat Guano War cover](the-second-bat-guano-war-cover.jpg)
+
 second-bat-guano-war
 ====================
 
