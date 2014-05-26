@@ -16,7 +16,9 @@ book details
 ============
 
 Title: The Second Bat Guano War
+
 Genre: Hard-Boiled Noir
+
 Word Count: 100,000
 
 Book Description:
