@@ -28,6 +28,8 @@ book details
 
 **Book Description:**
 
+**From former *Lonely Planet* author J.M. Porup comes this gritty South American noir...**
+
 Rats ate his baby daughter while he partied in a disco. Now Horace
 “Horse” Mann is a drugged-out expat teaching English to 
 criminals in Lima, Peru. Oh, and doing the odd favor for the CIA.
