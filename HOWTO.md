@@ -1,7 +1,8 @@
 HOWTO
 =====
 
-Grab yourself a copy of the-second-bat-guano-war.html. This is the master file. Then download Calibre:
+Grab yourself a copy of the-second-bat-guano-war.html. This is the 
+master file. Then download Calibre:
 
   http://calibre-ebook.com/download
   
