@@ -20,13 +20,13 @@ See HOWTO for conversion instructions.
 book details
 ============
 
-Title: *The Second Bat Guano War*
+**Title:** *The Second Bat Guano War*
 
-Genre: Hard-Boiled Noir
+**Genre:** Hard-Boiled Noir
 
-Word Count: 100,000
+**Word Count:** 100,000
 
-Book Description:
+**Book Description:**
 
 Rats ate his baby daughter while he partied in a disco. Now Horace
 “Horse” Mann is a drugged-out expat teaching English to 
